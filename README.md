@@ -9,7 +9,7 @@
 ---
 
 ## ​ About Me
-- 🌱 Currently learning **Python, DSA, SQL, ML & Full Stack Web Development**  
+- 🌱 Currently learning **Python, Java ,DSA, SQL, ML & Full Stack Web Development**  
 - 🔭 Exploring **AI/ML Projects**  
 - 🎯 Goal → To become a **Full-Stack + AI Engineer** in 3 years  
 - ⚡ Fun fact → *I learn something new every single day!*
