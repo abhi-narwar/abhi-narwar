@@ -1,55 +1,45 @@
-<!-- HERO -->
-<h1 align="center">Hi there 👋, I'm Abhishek Narwar</h1>
 <p align="center">
-  <sub>A data-first thinker building real skills — not shortcuts.</sub>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/abhishek-narwar-a4815428a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Narwar-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
+  <strong>Abhishek Narwar</strong><br>
+  <sub>Python • Data • Machine Learning</sub>
 </p>
 
 ---
 
-### 💡 A little about me
-- 🎓 B.Tech in Computer Science (AI, ML & IoT)  
-- 🐍 I love crafting Python solutions with clean logic  
-- 📊 I solve business problems using data  
-- 🚀 I’m preparing for **internships & real product work**
+I’m a Computer Science student who believes  
+**skills should speak louder than profiles**.
+
+I focus on:
+- writing logic-first Python  
+- working with real datasets  
+- building things I can explain without slides  
 
 ---
 
-### 🔭 What I’m currently up to
-- Learning 📈 Advanced **SQL queries**
-- Improving 🤖 Machine Learning models
-- Practicing 🧠 Python for interview readiness
+### What I work with
+Python · SQL · Excel  
+Pandas · NumPy · Scikit-learn  
+Git · GitHub · Jupyter  
 
 ---
 
-### 🧪 Selected Projects
-➡️ Sales Data Analysis  
-➡️ Customer Churn Prediction  
-➡️ Customer Risk & Revenue System  
-> (I only show work I can explain fully)
+### Things I’ve built
+• Sales Data Analysis  
+• Customer Churn Prediction  
+• Customer Risk & Revenue System  
+
+(only work I genuinely understand)
 
 ---
 
-### 🌟 GitHub Stats
+### How I grow
+Understand → Build → Simplify → Repeat  
+
+---
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi-narwar&show_icons=true&theme=dark" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-narwar&layout=compact&theme=dark" />
+  <a href="https://www.linkedin.com/in/abhishek-narwar-a4815428a/">LinkedIn</a>
 </p>
 
----
-
-### ❤️ Let’s connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhishek-narwar-a4815428a/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+  <sub>Quiet learner. Serious about work.</sub>
 </p>
