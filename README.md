@@ -15,10 +15,10 @@
 
 ### 🔗 Connect with me
 <p>
-  <a href="https://linkedin.com/in/your-link" target="_blank">
+  <a href="[https://www.linkedin.com/in/abhishek-narwar-a4815428a/]" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:abhisheknarwar576@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
