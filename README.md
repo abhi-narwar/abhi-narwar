@@ -9,7 +9,6 @@
 
 ## 🧠 About Me
 
-- 👨‍🎓 Currently in **2nd Year B.Tech (CSE – AI/ML/IoT)**
 - 🐍 Strong foundation in **Python (Basic → Advanced)**
 - 📊 Interested in **Data Analyst & Python Developer roles**
 - 🛠️ Believe in **learning by building real projects**
