@@ -1,47 +1,48 @@
-# 💫 About Me
+# 👋 Hi, I'm Abhishek Narwar
 
-🎓 **B.Tech Computer Science (AI, ML & IoT)** student at **GLA University, Mathura**  
-🐍 Strong foundation in **Python** with basic knowledge of **SQL & Machine Learning**  
-📊 Interested in **Data Analyst** & **Python Developer** roles  
-🛠️ Believe in **learning by building real-world projects**  
-🎯 Actively preparing for **Internships & Placements**
+🎓 B.Tech Computer Science (AI, ML & IoT) Student  
+🏫 GLA University, Mathura  
 
 ---
 
-## 🌐 Connect With Me
-
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-narwar-a4815428a/)  
-📧 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhisheknarwar576@gmail.com)
-
----
-
-## 💻 Tech Stack
-
-### 🚀 Programming & Web
-🐍 Python &nbsp;&nbsp;| ☕ Java &nbsp;&nbsp;| 🌐 HTML &nbsp;&nbsp;| 🎨 CSS &nbsp;&nbsp;| ⚡ JavaScript
-
-### 📊 Data & Databases
-🗄️ MySQL &nbsp;&nbsp;| 📈 Pandas &nbsp;&nbsp;| 🔢 NumPy &nbsp;&nbsp;| 📉 Matplotlib
-
-### 🤖 Machine Learning
-🧠 scikit-learn &nbsp;&nbsp;| 🔥 TensorFlow &nbsp;&nbsp;| 🧩 Keras &nbsp;&nbsp;| ⚙️ PyTorch
+## 🧠 About Me
+- 🐍 Strong foundation in **Python**
+- 📊 Interested in **Data Analyst & Python Developer** roles
+- 🤖 Basic knowledge of **Machine Learning**
+- 🛠️ Believe in **learning by building projects**
+- 🎯 Preparing for **Internships & Placements**
 
 ---
 
-## 📊 GitHub Stats
-
-📈 **Overall Performance**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhi-narwar&theme=dark&hide_border=false)
-
-🔥 **Consistency & Streaks**  
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=abhi-narwar&theme=dark&hide_border=false)
-
-🧩 **Most Used Languages**  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-narwar&theme=dark&hide_border=false&layout=compact)
+## 💻 Skills
+- **Programming:** Python, Java (Basics)
+- **Data:** SQL, Excel, Pandas, NumPy
+- **Machine Learning:** Basics, Model Training
+- **Core CS:** OOPS, OS (Learning), DBMS (Learning)
+- **Tools:** Git, GitHub, VS Code
 
 ---
 
-👀 **Profile Views**  
-![Profile Views](https://visitcount.itsvg.in/api?id=abhi-narwar&icon=0&color=0)
+## 📂 Projects
+- 🔹 Python Mini Projects  
+- 🔹 Data Analysis using SQL & Excel  
+- 🔹 Machine Learning Basic Projects  
 
-<!-- Clean • Professional • Emoji Balanced 🚀 -->
+> More projects coming soon 🚀
+
+---
+
+## 🌱 Currently Learning
+- Advanced Python
+- SQL for Data Analysis
+- Machine Learning fundamentals
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/abhishek-narwar-a4815428a/
+- Email: abhisheknarwar576@gmail.com
+
+---
+
+⭐ If you like my work, feel free to star my repositories!
