@@ -1,51 +1,34 @@
-# 👋 Hello, I'm Abhishek Narwar 
+# 👋 Hi, I'm Abhishek Narwar 🚀
 
-🎓 **B.Tech Computer Science (AI, ML & IoT)** Student  
-🏫 **GLA University, Mathura**  
-💡 Focused on **Python, Data Analysis & Machine Learning**  
-🚀 Actively preparing for **Internships & Placements**
+🎓 **B.Tech CSE (AI, ML & IoT)** | GLA University, Mathura  
+🐍 **Python • SQL • Data Analysis • ML**  
+🎯 Preparing for **Internships & Placements (6+ LPA goal)**
 
 ---
 
 ## 🧠 About Me
-
-- 🐍 Strong foundation in **Python (Basic → Advanced)**
-- 📊 Interested in **Data Analyst & Python Developer roles**
-- 🛠️ Believe in **learning by building real projects**
-- 🎯 Goal: Crack a **good internship → 6+ LPA placement**
+- 💡 Learn by **building real-world projects**
+- 📊 Interested in **Data Analyst & Python Developer** roles
+- 🛠️ Strong in **Python (Basic → Advanced)**
 
 ---
 
-## 🧰 Skills & Tools
-
-- **Programming:** Python, Java (Basics)
-- **Data:** SQL, Excel, Pandas, NumPy
-- **Machine Learning:** Basics of ML, Model Training
-- **Core CS:** OOPS, OS (Learning), DBMS (Learning)
-- **Tools:** Git, GitHub, VS Code
+## 🧰 Skills
+**Python | SQL | Excel | Pandas | NumPy | ML Basics | Git | GitHub**
 
 ---
 
-## 📌 What You'll Find Here
-
-- 📁 **Python Projects** (Beginner → Intermediate)
-- 📈 **Data Analysis Practice** (SQL + Excel)
-- 🤖 **Machine Learning Mini Projects**
-- 📝 **Placement Preparation Notes**
-- 🧪 Practice & learning repositories
+## 📌 What I Do
+- 📁 Python Projects  
+- 📈 Data Analysis (SQL + Excel)  
+- 🤖 ML Mini Projects  
 
 ---
 
-## 📫 How to Reach Me
-
-- 💼 **LinkedIn:** https://www.linkedin.com/in/abhishek-narwar-a4815428a/
-- 📧 **Email:** abhisheknarwar576@gmail.com
-- 🧑‍💻 **GitHub:** https://github.com/abhi-narwar
+## 📫 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/abhishek-narwar-a4815428a/  
+- 📧 Email: abhisheknarwar576@gmail.com  
 
 ---
 
-## ⚡ Fun Fact
-
-> I prefer **real-world projects** over mugging theory 😄
-
-🚀🔥
+⚡ *Projects over theory, always.* 🔥
