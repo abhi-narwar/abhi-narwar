@@ -1,76 +1,74 @@
-<h1 align="center">👋 Hi, I'm Abhishek Narwar Singh Jat</h1>
+<h1 align="center">🚀 Abhishek Narwar Singh Jat</h1>
 
 <p align="center">
-🎓 B.Tech CSE (AI, ML & IoT) | 🏫 GLA University, Mathura <br>
+🎓 B.Tech CSE (AI, ML & IoT) • 🏫 GLA University, Mathura <br>
 💼 Aspiring <b>Python Developer</b> | <b>Data Analyst</b>
 </p>
 
 <p align="center">
-🚀 Learning • 🛠️ Building • 🎯 Growing
+✨ Turning Data into Insights • 🛠️ Building Skills • 🎯 Chasing Excellence
 </p>
 
 ---
 
-## 🧠 About Me 🚀
-✨ Passionate about turning **data into insights**  
-🐍 Strong foundation in **Python (Basic → Advanced)**  
-📊 Interested in **Data Analysis & Python Development**  
-🤖 Hands-on with **Machine Learning (Basics)**  
-🛠️ Believe in **learning by building real-world projects**  
-🎯 Actively preparing for **internships & placements**
+## 👨‍💻 Who Am I?
+I am a **Python-focused Computer Science student** passionate about  
+📊 **data analysis**, 🐍 **clean Python code**, and 🤖 **machine learning basics**.  
+
+I strongly believe that **real learning happens by building**, not just watching courses.  
+Currently preparing seriously for **internships & entry-level roles**.
 
 ---
 
-## 💻 Skills & Tools 🧰
+## 🧠 Skill Stack
 
-**Programming & Data**
-- 🐍 Python  
-- 🗄️ SQL  
-- 📊 Excel  
+### 🐍 Programming & Data
+`Python` • `SQL` • `Excel`
 
-**Libraries & Analysis**
-- 📈 Pandas  
-- 📉 NumPy  
+### 📈 Data Analysis & Visualization
+`Pandas` • `NumPy` • `Matplotlib` • `Seaborn`
 
-**Visualization**
-- 📊 Matplotlib  
-- 📊 Seaborn  
+### 🤖 Machine Learning
+`ML Fundamentals` • `Model Training (Basics)`
 
-**Machine Learning**
-- 🤖 ML Fundamentals  
-
-**Tools**
-- 🐙 Git & GitHub  
+### 🛠️ Tools & Workflow
+`Git` • `GitHub` • `VS Code`
 
 ---
 
-## 📂 Projects 🚀
+## 🚀 Featured Projects
+
 📊 **Sales Data Analysis**  
-&nbsp;&nbsp;&nbsp;→ Excel + SQL + Python  
+→ Excel + SQL + Python  
+→ Cleaned data, analyzed trends & generated insights  
 
 🤖 **Customer Churn Prediction**  
-&nbsp;&nbsp;&nbsp;→ Machine Learning + Python  
+→ Machine Learning + Python  
+→ Built predictive model using real-world logic  
 
 🐍 **Python CRUD / Analysis Application**  
-&nbsp;&nbsp;&nbsp;→ Core Python Project  
+→ Core Python project  
+→ Focused on logic, structure & clarity  
 
 ---
 
-## 🌱 Currently Learning 📚
+## 📚 Currently Improving
 🚀 Advanced Python  
-📊 SQL (Interview Level)  
+📊 SQL (Interview-Oriented)  
 🤖 Machine Learning Fundamentals  
 
 ---
 
-## 🔗 Connect With Me 🤝
-🐙 **GitHub:** https://github.com/abhi-narwar  
-💼 **LinkedIn:** https://www.linkedin.com/in/abhishek-narwar-a4815428a/  
-📧 **Email:** abhisheknarwar576@gmail.com  
+## 🌐 Let’s Connect
+<p align="center">
+🐙 <a href="https://github.com/abhi-narwar">GitHub</a> • 
+💼 <a href="https://www.linkedin.com/in/abhishek-narwar-a4815428a/">LinkedIn</a> • 
+📧 <a href="mailto:abhisheknarwar576@gmail.com">Email</a>
+</p>
 
 ---
 
 <p align="center">
 ⭐ Open to internships & entry-level opportunities <br>
-💡 Skills + Projects + Consistency = Growth
+<b>Consistency + Skills + Projects = Career Growth</b>
 </p>
