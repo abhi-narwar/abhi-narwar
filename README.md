@@ -1,48 +1,76 @@
-# 👋 Hi, I'm Abhishek Narwar
+<h1 align="center">👋 Hi, I'm Abhishek Narwar Singh Jat</h1>
 
-🎓 B.Tech Computer Science (AI, ML & IoT) Student  
-🏫 GLA University, Mathura  
+<p align="center">
+🎓 B.Tech CSE (AI, ML & IoT) | 🏫 GLA University, Mathura <br>
+💼 Aspiring <b>Python Developer</b> | <b>Data Analyst</b>
+</p>
 
----
-
-## 🧠 About Me
-- 🐍 Strong foundation in **Python**
-- 📊 Interested in **Data Analyst & Python Developer** roles
-- 🤖 Basic knowledge of **Machine Learning**
-- 🛠️ Believe in **learning by building projects**
-- 🎯 Preparing for **Internships & Placements**
+<p align="center">
+🚀 Learning • 🛠️ Building • 🎯 Growing
+</p>
 
 ---
 
-## 💻 Skills
-- **Programming:** Python, Java (Basics)
-- **Data:** SQL, Excel, Pandas, NumPy
-- **Machine Learning:** Basics, Model Training
-- **Core CS:** OOPS, OS (Learning), DBMS (Learning)
-- **Tools:** Git, GitHub, VS Code
+## 🧠 About Me 🚀
+✨ Passionate about turning **data into insights**  
+🐍 Strong foundation in **Python (Basic → Advanced)**  
+📊 Interested in **Data Analysis & Python Development**  
+🤖 Hands-on with **Machine Learning (Basics)**  
+🛠️ Believe in **learning by building real-world projects**  
+🎯 Actively preparing for **internships & placements**
 
 ---
 
-## 📂 Projects
-- 🔹 Python Mini Projects  
-- 🔹 Data Analysis using SQL & Excel  
-- 🔹 Machine Learning Basic Projects  
+## 💻 Skills & Tools 🧰
 
-> More projects coming soon 🚀
+**Programming & Data**
+- 🐍 Python  
+- 🗄️ SQL  
+- 📊 Excel  
+
+**Libraries & Analysis**
+- 📈 Pandas  
+- 📉 NumPy  
+
+**Visualization**
+- 📊 Matplotlib  
+- 📊 Seaborn  
+
+**Machine Learning**
+- 🤖 ML Fundamentals  
+
+**Tools**
+- 🐙 Git & GitHub  
 
 ---
 
-## 🌱 Currently Learning
-- Advanced Python
-- SQL for Data Analysis
-- Machine Learning fundamentals
+## 📂 Projects 🚀
+📊 **Sales Data Analysis**  
+&nbsp;&nbsp;&nbsp;→ Excel + SQL + Python  
+
+🤖 **Customer Churn Prediction**  
+&nbsp;&nbsp;&nbsp;→ Machine Learning + Python  
+
+🐍 **Python CRUD / Analysis Application**  
+&nbsp;&nbsp;&nbsp;→ Core Python Project  
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/abhishek-narwar-a4815428a/
-- Email: abhisheknarwar576@gmail.com
+## 🌱 Currently Learning 📚
+🚀 Advanced Python  
+📊 SQL (Interview Level)  
+🤖 Machine Learning Fundamentals  
 
 ---
 
-⭐ If you like my work, feel free to star my repositories!
+## 🔗 Connect With Me 🤝
+🐙 **GitHub:** https://github.com/abhi-narwar  
+💼 **LinkedIn:** https://www.linkedin.com/in/abhishek-narwar-a4815428a/  
+📧 **Email:** abhisheknarwar576@gmail.com  
+
+---
+
+<p align="center">
+⭐ Open to internships & entry-level opportunities <br>
+💡 Skills + Projects + Consistency = Growth
+</p>
