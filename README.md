@@ -42,25 +42,6 @@ and preparing seriously for **internships and entry-level opportunities** in the
 
 ---
 
-## 🚀 Featured Projects
-
-### 📊 Sales Data Analysis
-- Tools: **Excel, SQL, Python**
-- Cleaned and transformed raw datasets
-- Analyzed trends and generated actionable business insights
-
-### 🤖 Customer Churn Prediction
-- Tools: **Python, Machine Learning**
-- Built a predictive model to identify potential churn customers
-- Focused on understanding data patterns and model behavior
-
-### 🐍 Python CRUD / Analysis Application
-- Tools: **Core Python**
-- Developed a structured Python application
-- Emphasis on logic building, code clarity, and maintainability
-
----
-
 ## 📚 Currently Improving
 🚀 Advanced Python &nbsp;•&nbsp;
 📊 SQL (Interview-Oriented) &nbsp;•&nbsp;
