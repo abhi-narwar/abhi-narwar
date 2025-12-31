@@ -38,8 +38,8 @@
 
 ## 📫 How to Reach Me
 
-- 💼 **LinkedIn:** https://www.linkedin.com/in/abhishek-narwar  
-- 📧 **Email:** (abhisheknarwar576@gmail.com)
+- 💼 **LinkedIn:** https://www.linkedin.com/in/abhishek-narwar-a4815428a/
+- 📧 **Email:** abhisheknarwar576@gmail.com
 - 🧑‍💻 **GitHub:** https://github.com/abhi-narwar
 
 ---
