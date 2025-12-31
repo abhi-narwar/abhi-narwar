@@ -1,45 +1,52 @@
-<p align="center">
-  <strong>Abhishek Narwar</strong><br>
-  <sub>Python • Data • Machine Learning</sub>
-</p>
+# 👋 Hello, I'm Abhishek Narwar 
+
+🎓 **B.Tech Computer Science (AI, ML & IoT)** Student  
+🏫 **GLA University, Mathura**  
+💡 Focused on **Python, Data Analysis & Machine Learning**  
+🚀 Actively preparing for **Internships & Placements**
 
 ---
 
-I’m a Computer Science student who believes  
-**skills should speak louder than profiles**.
+## 🧠 About Me
 
-I focus on:
-- writing logic-first Python  
-- working with real datasets  
-- building things I can explain without slides  
-
----
-
-### What I work with
-Python · SQL · Excel  
-Pandas · NumPy · Scikit-learn  
-Git · GitHub · Jupyter  
+- 👨‍🎓 Currently in **2nd Year B.Tech (CSE – AI/ML/IoT)**
+- 🐍 Strong foundation in **Python (Basic → Advanced)**
+- 📊 Interested in **Data Analyst & Python Developer roles**
+- 🛠️ Believe in **learning by building real projects**
+- 🎯 Goal: Crack a **good internship → 6+ LPA placement**
 
 ---
 
-### Things I’ve built
-• Sales Data Analysis  
-• Customer Churn Prediction  
-• Customer Risk & Revenue System  
+## 🧰 Skills & Tools
 
-(only work I genuinely understand)
-
----
-
-### How I grow
-Understand → Build → Simplify → Repeat  
+- **Programming:** Python, Java (Basics)
+- **Data:** SQL, Excel, Pandas, NumPy
+- **Machine Learning:** Basics of ML, Model Training
+- **Core CS:** OOPS, OS (Learning), DBMS (Learning)
+- **Tools:** Git, GitHub, VS Code
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abhishek-narwar-a4815428a/">LinkedIn</a>
-</p>
+## 📌 What You'll Find Here
 
-<p align="center">
-  <sub>Quiet learner. Serious about work.</sub>
-</p>
+- 📁 **Python Projects** (Beginner → Intermediate)
+- 📈 **Data Analysis Practice** (SQL + Excel)
+- 🤖 **Machine Learning Mini Projects**
+- 📝 **Placement Preparation Notes**
+- 🧪 Practice & learning repositories
+
+---
+
+## 📫 How to Reach Me
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/abhishek-narwar  
+- 📧 **Email:** (abhisheknarwar576@gmail.com)
+- 🧑‍💻 **GitHub:** https://github.com/abhi-narwar
+
+---
+
+## ⚡ Fun Fact
+
+> I prefer **real-world projects** over mugging theory 😄
+
+🚀🔥
