@@ -1,77 +1,18 @@
-<h1 align="center">Hi 👋, I'm Abhishek Narwar</h1>
-<h3 align="center">
-B.Tech CSE (AI, ML & IoT) • Python & Data Analysis Learner • Project-Driven 🚀
-</h3>
+# 💫 About Me:
+🎓 B.Tech Computer Science (AI, ML & IoT) student at GLA University, Mathura<br><br>🐍 Strong foundation in Python with basic knowledge of SQL & Machine Learning<br><br>📊 Interested in Data Analyst & Python Developer roles<br><br>🛠️ Believe in learning by building real-world projects<br><br>🎯 Actively preparing for internships & placements
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhi-narwar&label=Profile%20Views&color=blue&style=flat" />
-</p>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek-narwar-a4815428a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhisheknarwar576@gmail.com) 
 
-## 🚀 About Me
-- 🎓 B.Tech CSE student specializing in **AI, ML & IoT**
-- 🐍 Strong interest in **Python, Data Analysis & Machine Learning**
-- 🛠️ Learn best by **building real-world projects**
-- 🎯 Goal: **Internship → Strong Placement**
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abhi-narwar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=abhi-narwar&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-narwar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=abhi-narwar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌱 Currently Learning
-**Python • SQL • Data Analysis • Machine Learning • DSA (Basics)**
-
----
-
-## 🧰 Tech Stack
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"/>
-</p>
-
----
-
-## 📂 What You'll Find Here
-- 🐍 Python practice & projects  
-- 📊 Data analysis (SQL, Excel, Pandas)  
-- 🤖 Beginner ML models  
-- 📝 Notes for learning & placement prep  
-
----
-
-## 🤝 Connect With Me
-<p>
-  <a href="https://www.linkedin.com/in/abhishek-narwar-a4815428a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-  </a>
-  <a href="https://www.hackerrank.com/abhisheknarwar51" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40"/>
-  </a>
-  <a href="https://leetcode.com/abhisheknarwar_cs23" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40"/>
-  </a>
-</p>
-
-📧 **Email:** abhisheknarwar576@gmail.com  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi-narwar&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi-narwar&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-narwar" />
-</p>
-
----
-
-⚡ *Learning by building. Improving every day.* 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
