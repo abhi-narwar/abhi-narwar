@@ -1,33 +1,46 @@
 <h2 align="center">Abhishek Narwar</h2>
+
 <p align="center">
-  Python • Data • Machine Learning<br>
-  <sub>Focused on real skills, not buzzwords</sub>
+  <b>Python · Data · Machine Learning</b><br>
+  <sub>Learning by building, not memorizing</sub>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhishek-narwar-a4815428a/">
-    <img src="https://img.shields.io/badge/LinkedIn-Abhishek%20Narwar-0A66C2?logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-🎓 B.Tech CSE (AI, ML & IoT)  
-🧠 Learn by building and explaining  
-🎯 Goal: Internship → Full-time tech role  
+### 🧭 About
+CS undergraduate (AI, ML & IoT) focused on **practical problem-solving**.  
+I write **clean Python**, work with **data**, and build projects I can explain clearly.
+
+🎯 *Internship → Full-time tech role*
 
 ---
 
-### 🛠 Skills
-Python • SQL • Pandas • Scikit-learn • Excel • Git  
+### 🧠 Stack
+`Python` `SQL` `Excel` `Pandas` `Scikit-learn`  
+`Git` `GitHub` `Jupyter`
 
 ---
 
-### 📌 Work
-Customer Churn Prediction  
-Customer Risk & Revenue Analysis  
-Sales Data Analysis  
+### 🧪 Work
+• Customer Churn Prediction  
+• Customer Risk & Revenue System  
+• Sales Data Analysis  
+
+<sub>Only projects I fully understand.</sub>
 
 ---
 
-<sub>Simple code. Clear logic. Continuous improvement.</sub>
+### 🔁 How I Work
+Understand → Build simple → Improve → Document
+
+---
+
+<p align="center">
+  <sub>Quiet progress. Real skills.</sub>
+</p>
