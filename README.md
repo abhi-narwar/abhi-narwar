@@ -30,7 +30,8 @@
 
 <td width="45%" align="center">
   
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Developer.gif" width="90%" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coder.gif" width="90%" />
+
 
 
 </td>
