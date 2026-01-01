@@ -14,7 +14,6 @@
   GLA University, Mathura  
 - 🐍 Currently learning **Python, Data Analysis & Machine Learning**
 - 📊 Interested in **Python Developer & Data Analyst roles**
-- 🎯 Goal: **Internship → Strong Placement**
 
 ### 🤝 Connect With Me
 <a href="https://www.linkedin.com/in/abhishek-narwar-a4815428a/" target="_blank">
@@ -33,14 +32,8 @@
 
 <td width="45%" align="center">
 
-<!-- DIFFERENT BUT SIMILAR IMAGE -->
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="90%" />
 
 </td>
 </tr>
 </table>
-
----
-
-⭐ *Open to internships & entry-level opportunities*  
-⭐ *Focused on learning, building & growing every day*
