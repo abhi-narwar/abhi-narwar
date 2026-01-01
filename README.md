@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhishek Narwar Singh Jat</h1>
+<h1 align="center">Hi 👋, I'm Abhishek Narwar </h1>
 <h3 align="center">Python Developer | Data Analyst | AI/ML Enthusiast</h3>
 
 <p align="center">
@@ -10,7 +10,6 @@
 ### 🚀 About Me
 🎓 B.Tech CSE (AI, ML & IoT) – GLA University  
 🐍 Python | SQL | Data Analysis | ML  
-🎯 Internship → 6+ LPA Placement  
 
 ---
 
