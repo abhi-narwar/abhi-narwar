@@ -1,43 +1,49 @@
-<h1 align="center">Hi 👋, I'm Abhishek Narwar </h1>
-<h3 align="center">Python Developer | Data Analyst | AI/ML Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Abhishek Narwar</h1>
+<h3 align="center">"Learn. Build. Grow."</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhi-narwar&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=abhi-narwar&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### 🚀 About Me
-🎓 B.Tech CSE (AI, ML & IoT) – GLA University  
-🐍 Python | SQL | Data Analysis | ML  
+<table>
+<tr>
+<td width="55%">
+
+🌱 I’m currently learning  
+**Python, Data Analysis, Machine Learning**
+
+🎓 **B.Tech CSE (AI, ML & IoT)**  
+GLA University, Mathura  
+
+💡 Interested in **Python Developer & Data Analyst roles**
 
 ---
 
-### 🧰 Skills
-- **Python**, SQL, Excel  
-- Pandas, NumPy  
-- Machine Learning (Basics)  
-- Git, GitHub, VS Code  
+### 🔗 Connect with me
+<a href="https://www.linkedin.com/in/abhishek-narwar-a4815428a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin"/>
+</a>
+<a href="mailto:abhisheknarwar576@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
+</a>
 
 ---
 
-### 📂 Projects
-- **Customer Churn Prediction** (ML)  
-- **Sales Data Analysis** (SQL + Python)  
-- **Expense Tracker** (Python)  
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhi-narwar&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-narwar&layout=compact&theme=radical" height="150"/>
+### 🛠 Languages & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,mysql,git,github,vscode" />
 </p>
 
+</td>
+
+<td width="45%" align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="90%" />
+</td>
+</tr>
+</table>
+
 ---
 
-### 🌐 Connect
-- 💼 LinkedIn: https://www.linkedin.com/in/abhishek-narwar-a4815428a/  
-- 📧 Email: abhisheknarwar576@gmail.com  
-
-⭐ Open to internships & entry-level roles
+⭐ Open to **Internships & Entry-Level Opportunities**
