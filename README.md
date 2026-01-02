@@ -4,60 +4,54 @@
 <p align="center">
 🎓 B.Tech CSE (AI, ML & IoT) <br>
 📊 Python • SQL • Data Analysis • Machine Learning <br>
-🚀 Actively preparing for Internships & Placements
+🚀 Focused on Internships & Entry-Level Roles
 </p>
 
----
+<hr>
 
 <h2>🚀 Languages & Tools</h2>
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="42"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="42"/>
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="45"/>
 </p>
 
----
+<hr>
 
-<h2>✒️ Recent Links</h2>
+<h2>📌 What I’m Working On</h2>
 <ul>
-  <li><a href="https://github.com/abhi-narwar" target="_blank">GitHub Profile</a></li>
+  <li>📊 Data Analysis projects using Python & SQL</li>
+  <li>🤖 Machine Learning fundamentals & models</li>
+  <li>📈 Improving problem-solving & analytical skills</li>
 </ul>
 
----
+<hr>
 
-<h2>⚡ Where to find me</h2>
+<h2>🌐 Connect With Me</h2>
 
-<p>
+<p align="center">
 <a href="https://www.linkedin.com/in/abhishek-narwar-a4815428a/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
+<a href="https://github.com/abhi-narwar" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
----
+<hr>
 
-<h2>📊 GitHub Stats</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abhi-narwar&show_icons=true&theme=tokyonight"/>
-</p>
+<h2>🏆 GitHub Achievements</h2>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhi-narwar&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhi-narwar&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abhi-narwar&theme=onedark"/>
+<img src="https://github-profile-trophy.vercel.app/?username=abhi-narwar&theme=onedark&no-frame=true"/>
 </p>
