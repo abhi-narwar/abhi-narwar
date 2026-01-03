@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Abhishek Narwar</h1>
-<h3 align="center">Aspiring Data Analyst & Machine Learning Enthusiast from India 🇮🇳</h3>
+<h1>Hi 👋, I'm Abhishek Narwar</h1>
+<h3>Aspiring Data Analyst & Machine Learning Enthusiast from India 🇮🇳</h3>
 
-<p align="center">
+<p>
 🎓 B.Tech CSE (AI, ML & IoT) <br>
 📊 Python • SQL • Data Analysis • Machine Learning <br>
 🚀 Focused on Internships & Entry-Level Roles
