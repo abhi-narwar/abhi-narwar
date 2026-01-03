@@ -52,6 +52,4 @@
 
 <h2>🏆 GitHub Achievements</h2>
 
-<p>
-<img src="https://github-profile-trophy.vercel.app/?username=abhi-narwar&theme=onedark&no-frame=true"/>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=abhi-narwar&theme=radical&no-frame=true"/>
