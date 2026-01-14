@@ -2,14 +2,14 @@
 <h3>Aspiring Data Analyst & Machine Learning Enthusiast from India 🇮🇳</h3>
 
 <p>
-🎓 B.Tech CSE (AI, ML & IoT) <br>
-📊 Python • SQL • Data Analysis • Machine Learning <br>
-🚀 Focused on Internships & Entry-Level Roles
+ B.Tech CSE (AI, ML & IoT) <br>
+ Python • SQL • Data Analysis • Machine Learning <br>
+ Focused on Internships & Entry-Level Roles
 </p>
 
 <hr>
 
-<h2>🚀 Languages & Tools</h2>
+<h2> Languages & Tools</h2>
 
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
@@ -27,11 +27,11 @@
 
 <hr>
 
-<h2>📌 What I’m Working On</h2>
+<h2> What I’m Working On</h2>
 <ul>
-  <li>📊 Data Analysis projects using Python & SQL</li>
-  <li>🤖 Machine Learning fundamentals & models</li>
-  <li>📈 Improving problem-solving & analytical skills</li>
+  <li> Data Analysis projects using Python & SQL</li>
+  <li> Machine Learning fundamentals & models</li>
+  <li> Improving problem-solving & analytical skills</li>
 </ul>
 
 <hr>
