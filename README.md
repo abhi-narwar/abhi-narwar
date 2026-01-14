@@ -4,7 +4,6 @@
 <p>
  B.Tech CSE (AI, ML & IoT) <br>
  Python • SQL • Data Analysis • Machine Learning <br>
- Focused on Internships & Entry-Level Roles
 </p>
 
 <hr>
